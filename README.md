@@ -1,3 +1,4 @@
 # Sample_Repo
 ## Pull Request 1
-## Closed Pull Request Testing 
+## Pull Request 2
+## Testing Closed Pull Request
